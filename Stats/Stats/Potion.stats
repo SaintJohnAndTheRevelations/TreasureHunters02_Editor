@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="48e63fff-81e0-42bb-ac51-39f5904b97be">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Entrails" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="_ComboStuff" />
+        <field name="RootTemplate" type="RootTemplateStatObjectFieldDefinition" value="eccf3f97-a3ba-4dbe-bf02-1dc48e28769b" />
+        <field name="Act part" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="ActPart" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Food" />
+        <field name="Weight" type="IntegerStatObjectFieldDefinition" value="200" />
+        <field name="Value" type="IntegerStatObjectFieldDefinition" value="0" />
+        <field name="ExtraProperties" type="StringStatObjectFieldDefinition" value="DISEASED,100,3" />
+        <field name="InventoryTab" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="InventoryTabs" />
+        <field name="ObjectCategory" type="StringStatObjectFieldDefinition" value="IngredientEarly" />
+        <field name="MinAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Dragon_Vaccine" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="Potion" />
+        <field name="RootTemplate" type="RootTemplateStatObjectFieldDefinition" value="6a869a4c-1cf8-49b0-b8d7-f87c19a6abae" />
+        <field name="Act part" type="EnumerationStatObjectFieldDefinition" value="13" enumeration_type_name="ActPart" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="ElectricSkin" />
+        <field name="Value" type="IntegerStatObjectFieldDefinition" value="600" />
+        <field name="Duration" type="IntegerStatObjectFieldDefinition" value="3" />
+        <field name="Reflection" type="StringStatObjectFieldDefinition" value="20::Air:melee" />
+        <field name="Flags" type="EnumerationListStatObjectFieldDefinition" value="25" enumeration_type_name="AttributeFlags" />
+        <field name="ObjectCategory" type="StringStatObjectFieldDefinition" value="VariousPotion" />
+        <field name="MinAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerStatObjectFieldDefinition" value="13" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Unfinished_Vaccine" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="Potion" />
+        <field name="RootTemplate" type="RootTemplateStatObjectFieldDefinition" value="6a869a4c-1cf8-49b0-b8d7-f87c19a6abae" />
+        <field name="Act part" type="EnumerationStatObjectFieldDefinition" value="13" enumeration_type_name="ActPart" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="ElectricSkin" />
+        <field name="Value" type="IntegerStatObjectFieldDefinition" value="600" />
+        <field name="Duration" type="IntegerStatObjectFieldDefinition" value="3" />
+        <field name="Reflection" type="StringStatObjectFieldDefinition" value="20::Air:melee" />
+        <field name="Flags" type="EnumerationListStatObjectFieldDefinition" value="25" enumeration_type_name="AttributeFlags" />
+        <field name="ObjectCategory" type="StringStatObjectFieldDefinition" value="VariousPotion" />
+        <field name="MinAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerStatObjectFieldDefinition" value="13" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Vaccinated_Entrails" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="_ComboStuff" />
+        <field name="RootTemplate" type="RootTemplateStatObjectFieldDefinition" value="9dc0dbe7-8510-4e8b-8694-1a3b3f4dda35" />
+        <field name="Act part" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="ActPart" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Food" />
+        <field name="Weight" type="IntegerStatObjectFieldDefinition" value="200" />
+        <field name="Value" type="IntegerStatObjectFieldDefinition" value="0" />
+        <field name="ExtraProperties" type="StringStatObjectFieldDefinition" value="DISEASED,100,3" />
+        <field name="InventoryTab" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="InventoryTabs" />
+        <field name="ObjectCategory" type="StringStatObjectFieldDefinition" value="IngredientEarly" />
+        <field name="MinAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerStatObjectFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Sprite_Stool" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="_ComboPotions" />
+        <field name="RootTemplate" type="RootTemplateStatObjectFieldDefinition" value="7799d246-2e1c-4a65-96c5-3e576b8d2c30" />
+        <field name="Act part" type="EnumerationStatObjectFieldDefinition" value="5" enumeration_type_name="ActPart" />
+        <field name="Act strength" type="StringStatObjectFieldDefinition" value="1" />
+        <field name="StackId" type="StringStatObjectFieldDefinition" value="Food" />
+        <field name="ComboCategory" type="StringStatObjectFieldDefinition" value="Food,Mushrooms" />
+        <field name="Weight" type="IntegerStatObjectFieldDefinition" value="10" />
+        <field name="Value" type="IntegerStatObjectFieldDefinition" value="90" />
+        <field name="WaterResistance" type="IntegerStatObjectFieldDefinition" value="5" />
+        <field name="InventoryTab" type="EnumerationStatObjectFieldDefinition" value="4" enumeration_type_name="InventoryTabs" />
+        <field name="ObjectCategory" type="StringStatObjectFieldDefinition" value="IngredientSwamps" />
+        <field name="MinAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerStatObjectFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerStatObjectFieldDefinition" value="2" />
+        <field name="MinLevel" type="IntegerStatObjectFieldDefinition" value="4" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

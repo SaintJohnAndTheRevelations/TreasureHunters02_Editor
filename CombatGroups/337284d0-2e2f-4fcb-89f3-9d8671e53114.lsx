@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="CombatStart" value="" type="23" />
+            <attribute id="CustomScripting" value="" type="23" />
+            <attribute id="Description" value="" type="23" />
+            <attribute id="Events" value="" type="23" />
+            <attribute id="LevelName" value="" type="23" />
+            <attribute id="Name" value="WaterfallFight" type="23" />
+            <attribute id="Notes" value="" type="23" />
+            <attribute id="Scripter" value="" type="23" />
+            <attribute id="Situation" value="" type="23" />
+            <attribute id="UUID" value="337284d0-2e2f-4fcb-89f3-9d8671e53114" type="23" />
+        </node>
+    </region>
+</save>

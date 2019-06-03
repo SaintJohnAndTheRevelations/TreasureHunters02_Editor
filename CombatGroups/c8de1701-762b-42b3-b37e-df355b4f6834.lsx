@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="CombatStart" value="" type="23" />
+            <attribute id="CustomScripting" value="" type="23" />
+            <attribute id="Description" value="" type="23" />
+            <attribute id="Events" value="" type="23" />
+            <attribute id="LevelName" value="LevelOne" type="23" />
+            <attribute id="Name" value="ClogCombatGroup" type="23" />
+            <attribute id="Notes" value="" type="23" />
+            <attribute id="Scripter" value="" type="23" />
+            <attribute id="Situation" value="" type="23" />
+            <attribute id="UUID" value="c8de1701-762b-42b3-b37e-df355b4f6834" type="23" />
+        </node>
+    </region>
+</save>

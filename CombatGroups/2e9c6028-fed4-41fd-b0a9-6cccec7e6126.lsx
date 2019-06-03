@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="CombatStart" value="" type="23" />
+            <attribute id="CustomScripting" value="" type="23" />
+            <attribute id="Description" value="" type="23" />
+            <attribute id="Events" value="" type="23" />
+            <attribute id="LevelName" value="LevelTwo" type="23" />
+            <attribute id="Name" value="RiverTrappers" type="23" />
+            <attribute id="Notes" value="" type="23" />
+            <attribute id="Scripter" value="" type="23" />
+            <attribute id="Situation" value="" type="23" />
+            <attribute id="UUID" value="2e9c6028-fed4-41fd-b0a9-6cccec7e6126" type="23" />
+        </node>
+    </region>
+</save>

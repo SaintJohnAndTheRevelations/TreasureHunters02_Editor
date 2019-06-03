@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="21465eb6-ebaf-4455-9f29-369759e000a9">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="TRHU_Entrails_TRHU_Unfinished_Vaccine" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="Potions" />
+        <field name="RecipeCategory" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="RecipeCategory" />
+        <field name="Type 1" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 1" type="StringStatObjectFieldDefinition" value="TRHU_Entrails" />
+        <field name="Transform 1" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientTransformType" />
+        <field name="Type 2" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 2" type="StringStatObjectFieldDefinition" value="TRHU_Unfinished_Vaccine" />
+        <field name="Transform 2" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientTransformType" />
+        <field name="Result 1" type="StringStatObjectFieldDefinition" value="TRHU_Vaccinated_Entrails" />
+        <field name="Type 3" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 3" type="StringStatObjectFieldDefinition" value="TRHU_Sprite_Stool" />
+        <field name="Transform 3" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientTransformType" />
+        <field name="PreviewStatsID" type="StringStatObjectFieldDefinition" value="TRHU_Vaccinated_Entrails" />
+        <field name="PreviewIcon" type="StringStatObjectFieldDefinition" value="TOOL_Intestines_A" />
+        <field name="PreviewTooltip" type="TranslatedStringStatObjectFieldDefinition" value="TOOL_Intestines_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameStatObjectFieldDefinition" value="CON_Potion_ElectricSkin_TOOL_Intestines_A" />
+        <field name="Using" type="BaseClassStatObjectFieldDefinition" value="Potions" />
+        <field name="RecipeCategory" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="RecipeCategory" />
+        <field name="Type 1" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 1" type="StringStatObjectFieldDefinition" value="CON_Potion_ElectricSkin" />
+        <field name="Transform 1" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="IngredientTransformType" />
+        <field name="Type 2" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 2" type="StringStatObjectFieldDefinition" value="TOOL_Intestines_A" />
+        <field name="Transform 2" type="EnumerationStatObjectFieldDefinition" value="2" enumeration_type_name="IngredientTransformType" />
+        <field name="Result 1" type="StringStatObjectFieldDefinition" value="TRHU_Dragon_Vaccine" />
+        <field name="Type 3" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientType" />
+        <field name="Object 3" type="StringStatObjectFieldDefinition" value="TRHU_Sprite_Stool" />
+        <field name="Transform 3" type="EnumerationStatObjectFieldDefinition" value="1" enumeration_type_name="IngredientTransformType" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
